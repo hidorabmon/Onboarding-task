@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Onboarding task", "Onboarding task\Onboarding task.rptproj", "{CB12ABAF-CB9A-4F34-A768-8405A66CCFF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB12ABAF-CB9A-4F34-A768-8405A66CCFF7}.Debug|Default.ActiveCfg = Debug
+		{CB12ABAF-CB9A-4F34-A768-8405A66CCFF7}.Debug|Default.Build.0 = Debug
+		{CB12ABAF-CB9A-4F34-A768-8405A66CCFF7}.Debug|Default.Deploy.0 = Debug
+		{CB12ABAF-CB9A-4F34-A768-8405A66CCFF7}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{CB12ABAF-CB9A-4F34-A768-8405A66CCFF7}.DebugLocal|Default.Build.0 = DebugLocal
+		{CB12ABAF-CB9A-4F34-A768-8405A66CCFF7}.Release|Default.ActiveCfg = Release
+		{CB12ABAF-CB9A-4F34-A768-8405A66CCFF7}.Release|Default.Build.0 = Release
+		{CB12ABAF-CB9A-4F34-A768-8405A66CCFF7}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43EE636E-1462-489B-B494-DBB2E5F80FF2}
+	EndGlobalSection
+EndGlobal
